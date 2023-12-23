@@ -7,11 +7,6 @@
   <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAlvarez&layout=compact&hide_border=true&theme=highcontrast" />
 </div>
 
-
-
-
-
-
 ###
 <div align="center"> 
   <a href="https://#####" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
