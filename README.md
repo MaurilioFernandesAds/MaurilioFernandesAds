@@ -4,7 +4,7 @@
 
 <div align="center">
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=MaurilioFernandesADS&theme=highcontrast&show_icons=true&include_all_commits=true&count_private=true" alt="Anurag's GitHub stats" />
-  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&hide_border=true&theme=highcontrast" />
+  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaurilioFernandesADS&layout=compact&hide_border=true&theme=highcontrast" />
 </div>
 
 ###
@@ -14,7 +14,7 @@
   <a href="#######" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MaurilioFernandesADS/MaurilioFernandesADS/blob/output/github-contribution-grid-snake.svg)
 
 ### Habilidades Principais:
 ![Skills](https://skillicons.dev/icons?i=py,postgres)
