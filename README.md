@@ -4,7 +4,7 @@
 
 <div align="center">
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=MaurilioFernandesADS&theme=highcontrast&show_icons=true&include_all_commits=true&count_private=true" alt="Anurag's GitHub stats" />
-  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaurilioFernandesADS&layout=compact&hide_border=true&theme=highcontrast" />
+  <img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/MaurilioFernandesAds&layout=compact&hide_border=true&theme=highcontrast" />
 </div>
 
 ###
