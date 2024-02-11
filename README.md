@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/maurilio-fernandes-da-silva-1a62252b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/MaurilioFernandesADS/MaurilioFernandesADS/blob/output/github-contribution-grid-snake.gif)
+![Snake animation](https://github.com/MaurilioFernandesADS/MaurilioFernandesADS/blob/output/github-contribution-grid-snake.svg)
 
 ### Habilidades Principais:
 ![Skills](https://skillicons.dev/icons?i=py,postgres)
