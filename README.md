@@ -20,7 +20,7 @@
 ![Skills](https://skillicons.dev/icons?i=py,postgres)
 
 ### Outros conhecimentos:
-[![Other](https://skillicons.dev/icons?i=c,html,css&theme=dark)](https://skillicons.dev)
+![Other](https://skillicons.dev/icons?i=c,html,css)
 
 ### Ferramentas:
 ![Tools](https://skillicons.dev/icons?i=vscode,git,github)
