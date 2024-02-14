@@ -17,7 +17,7 @@
 ![Snake animation](https://github.com/MaurilioFernandesADS/MaurilioFernandesADS/blob/output/github-contribution-grid-snake.svg)
 
 ### Habilidades Principais:
-![Skills](https://skillicons.dev/icons?i=py,postgres)
+![Skills](https://skillicons.dev/icons?i=py,postgres&&theme=dark)
 
 ### Outros conhecimentos:
 ![Other](https://skillicons.dev/icons?i=c,html,css)
