@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/maurilio-fernandes-1a62252b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![Snake animation](https://github.com/MaurilioFernandesADS/MaurilioFernandesADS/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MaurilioFernandesAds/MaurilioFernandesAds/blob/output/github-contribution-grid-snake.svg)
 
 ### Habilidades Principais:
 ![Skills](https://skillicons.dev/icons?i=py,postgres)
@@ -30,7 +30,7 @@
 
 <div align="center">
 <br><p align="centre"><b>Contagem de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MaurilioFernandesADS}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MaurilioFernandesAds}/count.svg" /></p> 
 <br></div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0076FA&height=120&section=footer"/>
