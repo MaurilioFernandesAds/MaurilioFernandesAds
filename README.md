@@ -16,13 +16,10 @@
 
 <div>
   
-![snake gif](https://github.com/MaurilioFernandesAds/MaurilioFernandesAds/blob/output/github-contribution-grid-snake.gif)
-
-</div>
-
-###
+<!-- ![snake gif](https://github.com/MaurilioFernandesAds/MaurilioFernandesAds/blob/output/github-contribution-grid-snake.gif) -->
 
 ![huabin's snake gif](https://github.com/MaurilioFernandesAds/MaurilioFernandesAds/blob/output/github-contribution-grid-snake.svg)
+</div>
 ###
 
 ### Habilidades Principais:
