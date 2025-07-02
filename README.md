@@ -16,7 +16,7 @@
 
 <div>
   
-<img src="https://raw.githubusercontent.com/MaurilioFernandesAds/MaurilioFernandesAds/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/MaurilioFernandesAds/MaurilioFernandesAds/blob/output/github-contribution-grid-snake.gif)
 
 </div>
 
