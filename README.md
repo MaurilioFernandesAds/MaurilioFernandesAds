@@ -16,11 +16,13 @@
 
 
   
-<!-- ![snake gif](https://github.com/MaurilioFernandesAds/MaurilioFernandesAds/blob/output/github-contribution-grid-snake.gif) -->
+<!--![snake gif](https://github.com/MaurilioFernandesAds/MaurilioFernandesAds/blob/output/github-contribution-grid-snake.gif)-->
 <div>
+  
 ![huabin's snake gif](https://github.com/MaurilioFernandesAds/MaurilioFernandesAds/blob/output/github-contribution-grid-snake.svg)
-</div>
 ###
+
+</div>
 
 ### Habilidades Principais:
 ![Skills](https://skillicons.dev/icons?i=py,postgres)
