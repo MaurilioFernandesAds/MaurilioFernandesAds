@@ -14,7 +14,11 @@
   <a href="https://www.linkedin.com/in/maurilio-fernandes-1a62252b4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-<img src="https://raw.githubusercontent.com/gitUser/gitrepo/output/snake.svg" alt="Snake animation" />
+<div>
+  
+<img src="https://raw.githubusercontent.com/MaurilioFernandesAds/gitrepo/output/snake.svg" alt="Snake animation" />
+
+</div>
 
 ###
 
