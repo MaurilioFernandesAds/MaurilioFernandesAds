@@ -7,22 +7,18 @@ on:
     # A cada 6 horas
     - cron: "0 */6 * * *"
 
-  # Permite executar a ação manualmente pela aba "Actions" do GitHub.
+  # Permite executar a ação manualmente pela aba "Actions".
   workflow_dispatch:
 
-  # Também executa a ação a cada push na branch "main"
+  # Também executa quando há push na branch "main"
   push:
     branches:
       - main
 
-# A sequência de etapas neste fluxo de trabalho:
 jobs:
-  # Este fluxo de trabalho contém um único job chamado "build"
   build:
-    # O tipo de runner que será usado
     runs-on: ubuntu-latest
 
-    # Etapas que representam tarefas a serem executadas
     steps:
       - name: Clonar o repositório
         uses: actions/checkout@v3
@@ -35,7 +31,7 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake.gif?color_snake=#6CBB3C
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
