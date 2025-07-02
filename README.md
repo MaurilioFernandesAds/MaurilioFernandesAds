@@ -18,8 +18,6 @@
 
 ###
 
-![Snake animation](https://github.com/MaurilioFernandesAds/MaurilioFernandesAds/blob/output/github-contribution-grid-snake.svg)
-
 ### Habilidades Principais:
 ![Skills](https://skillicons.dev/icons?i=py,postgres)
 
