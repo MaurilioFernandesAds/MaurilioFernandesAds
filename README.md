@@ -16,7 +16,7 @@
 
 <div>
   
-<img src="https://raw.githubusercontent.com/MaurilioFernandesAds/gitrepo/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MaurilioFernandesAds/MaurilioFernandesAds/output/snake.svg" alt="Snake animation" />
 
 </div>
 
