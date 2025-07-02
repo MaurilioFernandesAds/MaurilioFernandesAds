@@ -16,6 +16,8 @@
 
 <img src="https://raw.githubusercontent.com/MaurilioFernandesAds/MaurilioFernandesAds/output/snake.svg" alt="Snake animation" />
 
+###
+
 ![Snake animation](https://github.com/MaurilioFernandesAds/MaurilioFernandesAds/blob/output/github-contribution-grid-snake.svg)
 
 ### Habilidades Principais:
