@@ -4,7 +4,7 @@ name: Generate Snake
 # Controla quando a ação será executada.
 on:
   schedule:
-    # A cada 1 horas
+    # A cada 10 horas
     - cron: "0 */1 * * *"
 
   # Permite executar a ação manualmente pela aba "Actions".
